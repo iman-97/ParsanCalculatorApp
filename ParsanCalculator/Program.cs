@@ -100,8 +100,6 @@ static double Evaluate(String expr)
 
         if (op == "+")
             result = left + right;
-        else if (op == "+")
-            result = left + right;
         else if (op == "-")
             result = left - right;
         else if (op == "*")
